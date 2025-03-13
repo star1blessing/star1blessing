@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Blessing Ogunsola</h1>
-<h3 align="center">First-generation Nigerian immigrant | Aspiring Tech Professional | Passionate about Data Analytics & Business Technology</h3>
+<h1 align="left">Hi 👋, I'm Blessing Ogunsola</h1>
+<h3 align="left">First-generation Nigerian immigrant | Aspiring Tech Professional | Passionate about Data Analytics & Business Technology</h3>
 
 - 🔭 I’m currently working on **Exploring data analytics and business tech solutions**
 
